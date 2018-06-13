@@ -313,7 +313,7 @@ h1, h2, h3, h4, h5, h6 {
 #nav-menu-container {
   float: right;
   margin: 0;
-  padding-right: 150px;
+  padding-right: 110px;
   padding-top: 10px;
 }
 
@@ -980,6 +980,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #faq #faq-list p {
   margin-bottom: 20px;
+  line-height: 3;
 }
 
 @media (max-width: 768px) {
@@ -992,7 +993,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #faq #faq-list a.collapse {
-  color: #1dc8cd;
+  color: #333;
 }
 
 #faq #faq-list a.collapsed {
