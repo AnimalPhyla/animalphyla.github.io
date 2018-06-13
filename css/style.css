@@ -969,6 +969,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 1;
   font-weight: 300;
   padding-right: 20px;
+  color: mediumturquoise;
 }
 
 #faq #faq-list i {
@@ -997,7 +998,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #faq #faq-list a.collapsed {
-  color: #000;
+  color: mediumturquoise;
 }
 
 #faq #faq-list a.collapsed i::before {
